@@ -59,4 +59,4 @@ jobs:
         if: failure()
         with:
            name: scancentral-logs
-           path: ~/.fortify/scancentral/log
+           path: C:\Users\AadOgya\AppData\Local\Fortify\scancentral-22.2.0\log
